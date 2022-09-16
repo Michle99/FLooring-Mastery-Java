@@ -27,5 +27,5 @@ High level list of items completed.
 - [x] Ability to update an existing order by providing the date and order number
 - [x] Ability to delete an existing order by providing the date and order number
 
-Author
+### Author
 . Michael O
