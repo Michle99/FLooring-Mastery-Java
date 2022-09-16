@@ -10,7 +10,7 @@ Orders are written and read using FileIO and are stored by the date they were cr
 
 ## Built With
 
-Technologies used: Java, NetBeans, JUnit, Maven, Spring MVC., XML. 
+Technologies used: Java, VSCode, JUnit, Maven, Spring MVC. 
 
 ### Prerequisites
 
@@ -27,13 +27,5 @@ High level list of items completed.
 - [x] Ability to update an existing order by providing the date and order number
 - [x] Ability to delete an existing order by providing the date and order number
 
-### Next Steps
-
-- [ ] Expand search ability and allow orders to be searched by Company Name
-- [ ] Add a mySql database to replace FileIO
-- [ ] Design/Implement a front end for the project
-
-## Authors
-
-* Greg Wallerus
-
+Author
+. Michael O
