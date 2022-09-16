@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCost,PerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1::Womanel::PA::0.0675::Wood::300::5.15::4.75::1545.00::1425.00::200.48::3170.48::08-23-2022

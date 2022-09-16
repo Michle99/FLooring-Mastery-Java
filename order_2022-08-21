@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCost,PerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1::Mani::OH::0.0625::Carpet::150.00::2.25::2.10::337.50::315.00::40.78::693.28::08/21/2022

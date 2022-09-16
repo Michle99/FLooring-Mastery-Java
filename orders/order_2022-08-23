@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCost,PerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1::Mani Wil::IN::0.06::Carpet::300.00::2.25::2.10::675.00::630.00::78.30::1383.30::08-23-2022

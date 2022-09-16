@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCost,PerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1::Jane::OH::0.0625::Laminate::110::1.75::2.10::192.50::231.00::26.47::449.97::09-08-2022
+2::Kelly::MI::0.0575::Tile::120::3.50::4.15::420.00::498.00::52.79::970.79::09-08-2022
+3::Jame Madison::IN::0.06::Carpet::150.00::2.25::2.10::337.50::315.00::39.15::691.65::09-08-2022
